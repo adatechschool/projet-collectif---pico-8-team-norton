@@ -11,6 +11,7 @@ end
 
 function _draw()
 coucou 
+test_charles
 end
 
 
