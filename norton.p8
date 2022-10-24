@@ -2,7 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 29
 __lua__
 function _init() 
-
+Test Johan
 end
 
 function _update60()
@@ -10,7 +10,7 @@ function _update60()
 end
 
 function _draw()
-coucou 
+
 end
 
 
